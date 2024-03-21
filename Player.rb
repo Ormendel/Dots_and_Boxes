@@ -1,23 +1,22 @@
 class Player
-    @@no_players = 0
     def initialize(name)
        @name = name
        @letter = name[0].upcase()
-       @@no_players += 1
     end
     def getName()
         return @name
-     end
-     def getLetter()
+    end
+    def getLetter()
         return @letter
-     end
-     def self.variable
-        return @@no_players # Return the value of this variable
-     end
+    end
  end
 
-player1 = Player.new('or') # It calls initialize function
-player2 = Player.new('tom')
-
-puts "total players playing: #{Player.variable}"
-puts "Continue later"
+ # new - key word that calls to initialize function of the class
+players = []
+players.push(Player.new('or'))
+players.push(Player.new('tom'))
+total_players = players.length()
+puts "total players playing: #{total_players}"
+for i in 0..total_players do
+    puts "Player # #{i+1}: name = #{players[i].getName()}, Stamp = #{players[i].getLetter()}"
+end

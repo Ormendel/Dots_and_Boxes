@@ -16,7 +16,7 @@ However implementing this will be a problem, because of edge cases.
 * In the 2nd version, the player who makes the **first** square/rectangle wins the game
 
 <p align="center">
-  <img src="[https://www.wikihow.com/images/thumb/9/9a/Play-Dots-and-Boxes-Step-1.jpg/v4-460px-Play-Dots-and-Boxes-Step-1.jpg.webp](https://media1.tenor.com/m/O2ZgbQ--_XUAAAAC/spongebob-squarepants-spongebob.gif)https://media1.tenor.com/m/O2ZgbQ--_XUAAAAC/spongebob-squarepants-spongebob.gif" alt="Goal2">
+  <img src="(https://media1.tenor.com/m/O2ZgbQ--_XUAAAAC/spongebob-squarepants-spongebob.gif)" alt="Goal2">
 </p>
 
 

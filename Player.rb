@@ -20,3 +20,4 @@ player1 = Player.new('or') # It calls initialize function
 player2 = Player.new('tom')
 
 puts "total players playing: #{Player.variable}"
+puts "Continue later"

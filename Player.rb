@@ -15,7 +15,9 @@ class Player
 players = []
 players.push(Player.new('or'))
 players.push(Player.new('tom'))
-puts "total players playing: #{players.length()}"
-for player in players do
-    puts "Player: name = #{player.getName()}, Stamp = #{player.getLetter()}"
+n = players.length()
+puts "total players playing: #{n}"
+# for each loop
+for i in 0..n-1 do # a..b --> [a,b]
+    puts "Player ##{i+1}: name = #{players[i].getName()}, Stamp = #{players[i].getLetter()}"
 end

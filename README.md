@@ -1,5 +1,6 @@
 # SquareGame
 The game's idea goes to 2 pupils who have learnt with me while I was a teenager.
+They showed me how to play and how to efficiently block a rival's move.
 
 ## How to decide who wins?
 ### 1st version

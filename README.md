@@ -17,11 +17,19 @@ They showed me how to play and how to efficiently block a rival's move.
 <p align="center">
   <img src="https://media1.tenor.com/m/O2ZgbQ--_XUAAAAC/spongebob-squarepants-spongebob.gif" alt="Goal2">
 </p>
+
 using glimmer as GUI library:
 
 ```bash
 gem install glimmer-dsl-libui
 ```
+Run this also for examples in a seperate terminal:
+
+```bash
+ruby -r glimmer-dsl-libui -e "require 'examples/meta_example'"
+```
+Link of examples repo:
+[examples in glimmer](https://github.com/AndyObtiva/glimmer-dsl-libui/tree/master/examples)
 Good luck!
 
   

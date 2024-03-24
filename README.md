@@ -19,9 +19,9 @@ They showed me how to play and how to efficiently block a rival's move.
 </p>
 using glimmer as GUI library:
 
-'''
+```bash
 gem install glimmer-dsl-libui
-'''
+```
 Good luck!
 
   

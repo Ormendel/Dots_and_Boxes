@@ -1,13 +1,13 @@
 class Player
+    attr_accessor :name, :letter
     def initialize(name)
        @name = name
        @letter = name[0].upcase()
     end
-    def getName()
-        return @name
-    end
-    def getLetter()
-        return @letter
+
+    #Overriding to_string method
+    def to_s
+        return "Name = #{name}, Stamp = #{letter}"
     end
  end
 
@@ -19,5 +19,5 @@ n = players.length()
 puts "total players playing: #{n}"
 # for each loop
 for i in 0..n-1 do # a..b --> [a,b]
-    puts "Player ##{i+1}: name = #{players[i].getName()}, Stamp = #{players[i].getLetter()}"
+    puts "Player ##{i+1}: #{players[i]}"
 end

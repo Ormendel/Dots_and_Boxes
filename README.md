@@ -17,7 +17,11 @@ They showed me how to play and how to efficiently block a rival's move.
 <p align="center">
   <img src="https://media1.tenor.com/m/O2ZgbQ--_XUAAAAC/spongebob-squarepants-spongebob.gif" alt="Goal2">
 </p>
+using glimmer as GUI library:
 
+'''
+gem install glimmer-dsl-libui
+'''
 Good luck!
 
   

@@ -1,4 +1,5 @@
 <h1 style="text-align: center;">The game will be implemented in Python instead of Ruby</h1>
+
 ### The GUI in Ruby is very complex!
 
 # The Square Game

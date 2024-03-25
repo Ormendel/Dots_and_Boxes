@@ -1,4 +1,7 @@
-# SquareGame
+<h1 style="text-align: center;">The game will be implemented in Python instead of Ruby</h1>
+### The GUI in Ruby is very complex!
+
+# The Square Game
 The game's idea goes to 2 pupils who have learnt with me while I was a teenager.
 They showed me how to play and how to efficiently block a rival's move.
 ## Simulation

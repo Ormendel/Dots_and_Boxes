@@ -1,7 +1,5 @@
 <h1 style="text-align: center;">The game will be implemented in Python instead of Ruby</h1>
 
-### The GUI in Ruby is very complex!
-
 # The Square Game
 The game's idea goes to 2 pupils who have learnt with me while I was a teenager.
 They showed me how to play and how to efficiently block a rival's move.
@@ -22,19 +20,12 @@ They showed me how to play and how to efficiently block a rival's move.
   <img src="https://media1.tenor.com/m/O2ZgbQ--_XUAAAAC/spongebob-squarepants-spongebob.gif" alt="Goal2">
 </p>
 
-using glimmer as GUI library:
+Using pygame as our GUI library:
 
 ```bash
-gem install glimmer-dsl-libui
+pip install pygame
 ```
-Run this also for examples in a seperate terminal:
-
-```bash
-ruby -r glimmer-dsl-libui -e "require 'examples/meta_example'"
-```
-Link of examples repo:
-[examples in glimmer](https://github.com/AndyObtiva/glimmer-dsl-libui/tree/master/examples)
-Good luck!
+Thanks a lot for youtuber pyguru for GUI guidance!
 
   
 
